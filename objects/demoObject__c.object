@@ -3,8 +3,7 @@
     <actionOverrides>
         <actionName>Accept</actionName>
         <type>Default</type>
-    </actionOverrides>
-    
+    </actionOverrides> 
     <actionOverrides>
         <actionName>Accept</actionName>
         <formFactor>Large</formFactor>
